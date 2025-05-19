@@ -10,3 +10,4 @@ chromadb
 python-dotenv
 tiktoken
 pypdf2
+faiss-cpu
